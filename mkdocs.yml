@@ -1,5 +1,5 @@
 site_name: Datastorm
-nav:
+pages:
   - Home: index.md
   - Installation: install.md
 theme: readthedocs
